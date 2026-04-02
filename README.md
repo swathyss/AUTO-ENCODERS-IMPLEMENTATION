@@ -6,15 +6,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Google%20Colab-yellow)
 
 A deep learning project focused on building and evaluating an **Autoencoder model** for **image reconstruction** using the **MNIST handwritten digits dataset**.
-
----
-
-## 🚀 Run Notebook in Google Colab
-
-Click the button below to open the notebook directly in Google Colab.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
-
 ---
 
 # 📘 Project Overview
